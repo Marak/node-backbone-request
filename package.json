@@ -1,0 +1,18 @@
+{
+  "author": "Marak <marak.squires@gmail.com>",
+  "name": "backbone-request",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Marak/fs2.git"
+  },
+  "main": "./backbone-request",
+  "dependencies": {
+    "request": "2.9.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
