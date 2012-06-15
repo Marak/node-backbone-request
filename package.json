@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Marak/fs2.git"
+    "url": "git://github.com/Marak/backbone-request.git"
   },
   "main": "./backbone-request",
   "dependencies": {
