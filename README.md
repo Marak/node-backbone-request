@@ -1,6 +1,6 @@
 # backbone-request
 
-A server-side HTTP sync engine for [backbone.js](http://backbonejs.org) built on the  well-established [request](http://github.com/mikeal/request) library.
+A sync engine for **server-side** [backbone.js](http://backbonejs.org) built on the well-established [request](http://github.com/mikeal/request) library.
 
 
 # Installation
